@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096596858537",
+    "firebase_url": "https://habtu-237c9.firebaseio.com",
+    "project_id": "habtu-237c9",
+    "storage_bucket": "habtu-237c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096596858537:android:f5cdb91a4d76860ec7abb8",
+        "android_client_info": {
+          "package_name": "com.example.habtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096596858537-vnk4gutg82s53431185mm2k8dsre6oom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habtu",
+            "certificate_hash": "a209ec5e394a8f8af39e31536b879cbcdb33fb00"
+          }
+        },
+        {
+          "client_id": "1096596858537-slb9b4805le5aagugejdag9ecgs3p428.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvq4GBaP3fX2DO93SqloTVLWkbleS6bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096596858537-slb9b4805le5aagugejdag9ecgs3p428.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
